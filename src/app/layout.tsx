@@ -15,7 +15,7 @@ export default function RootLayout({
         <html lang="en">
             <body>
                 <h1 className="bg-red-500">Meu Primeiro App React
-                {children}
+                    {children}
                 </h1>
                 <p>Rodapé - Meu Primeiro App React</p>
             </body>
